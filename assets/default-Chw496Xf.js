@@ -1,0 +1,1 @@
+import{f as o,o as a,g as t,j as l}from"./modules/vue-CBHG3zdT.js";import{u as r}from"./slidev/context-DuvhP5p1.js";const d={class:"flex p-0 slidev-layout default"},n={class:"flex-1 p-8"},_={__name:"default",setup(i){return r(),(s,e)=>(a(),o("div",d,[e[0]||(e[0]=t("div",{class:"w-48 bg-gradient-to-tl gradient-primary"},null,-1)),t("div",n,[l(s.$slots,"default")])]))}};export{_};
